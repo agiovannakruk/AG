@@ -1,0 +1,15 @@
+C:\Users\Giovanna\source\repos\AG\AG\bin\Debug\net6.0\AG.exe
+C:\Users\Giovanna\source\repos\AG\AG\bin\Debug\net6.0\AG.deps.json
+C:\Users\Giovanna\source\repos\AG\AG\bin\Debug\net6.0\AG.runtimeconfig.json
+C:\Users\Giovanna\source\repos\AG\AG\bin\Debug\net6.0\AG.dll
+C:\Users\Giovanna\source\repos\AG\AG\bin\Debug\net6.0\AG.pdb
+C:\Users\Giovanna\source\repos\AG\AG\obj\Debug\net6.0\AG.csproj.AssemblyReference.cache
+C:\Users\Giovanna\source\repos\AG\AG\obj\Debug\net6.0\AG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanna\source\repos\AG\AG\obj\Debug\net6.0\AG.AssemblyInfoInputs.cache
+C:\Users\Giovanna\source\repos\AG\AG\obj\Debug\net6.0\AG.AssemblyInfo.cs
+C:\Users\Giovanna\source\repos\AG\AG\obj\Debug\net6.0\AG.csproj.CoreCompileInputs.cache
+C:\Users\Giovanna\source\repos\AG\AG\obj\Debug\net6.0\AG.dll
+C:\Users\Giovanna\source\repos\AG\AG\obj\Debug\net6.0\refint\AG.dll
+C:\Users\Giovanna\source\repos\AG\AG\obj\Debug\net6.0\AG.pdb
+C:\Users\Giovanna\source\repos\AG\AG\obj\Debug\net6.0\AG.genruntimeconfig.cache
+C:\Users\Giovanna\source\repos\AG\AG\obj\Debug\net6.0\ref\AG.dll
